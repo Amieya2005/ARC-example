@@ -18,5 +18,6 @@ def main(filename):
 
 
 #donato
+#second change from the IDE
 if __name__ == '__main__':
 	main("waypoint_1.txt")
